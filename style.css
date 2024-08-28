@@ -4,7 +4,6 @@
     align-items: center;
     justify-content: center;
     height: 300px;
-    margin-bottom: 30px;
 }
 
 .square {
@@ -22,5 +21,5 @@
 #controls,
 #message {
     text-align: center;
-    margin: auto;
+    margin: 30px auto;
 }
